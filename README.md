@@ -42,10 +42,3 @@ Imágen ilustrativa (pantalla completa, texto, link)
 5. CONTACTO
 Listado de datos de contacto, ubicación y redes sociales de casa central y sucursal (formato pantalla partida ), mapa, links
 
-
-
-
-
-
-
-Actividad 2
